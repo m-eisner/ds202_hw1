@@ -1,0 +1,13 @@
+---
+title: "partner"
+author: "Zack Johnson"
+date: "8/25/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Matthew Eisner: m-eisner ###
+In the most recent commit, Matthew put his hw1 html and rmd files and called it *initial hw1 commit*. Encountered an **error** because the image in his rmd file is not present. The biggest thing that has helped my understanding git is just thinking of it as a different place to put things that is accessible by more people. Its basically a new bin.
